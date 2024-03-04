@@ -17,7 +17,8 @@ Welcome to the official repository for **SteamDisBot**, your go-to Discord bot f
 **SteamDisBot** accepts various Steam identifiers, ensuring flexibility and ease of use:
 
 - `/id [identifier]`: Retrieve detailed Steam account information.
-- `/stats [identifier]`: Display user game stats for Rust and CS:GO.
+- `/faceit [identifier]`: Display user faceit stats for games like CS2 more added soon!
+- `/stats [identifier]`: Display user game stats for Rust and CS2.
 - `/vac [identifier]`: Check a user's VAC ban status.
 - `/contact`: Report bugs or suggest features.
 - `/sdhelp`: Get a detailed guide on all commands and their usage.
